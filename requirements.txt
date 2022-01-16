@@ -1,0 +1,11 @@
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
+matplotlib
+pandas
+requests
+ipywidgets
+numpy
+seaborn
